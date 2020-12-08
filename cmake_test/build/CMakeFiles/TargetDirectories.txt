@@ -1,0 +1,3 @@
+C:/Users/lenovo/source/repos/cmake_test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lenovo/source/repos/cmake_test/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/lenovo/source/repos/cmake_test/build/cmake_test/CMakeFiles/cmake_test.dir
